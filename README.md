@@ -1,4 +1,4 @@
-# 🌸 Menstrual Health Chatbot
+# 🗨️ Menstrual Health Chatbot
 
 A specialized chatbot for menstrual health education and information, built using fine-tuned T5 transformer model.
 
