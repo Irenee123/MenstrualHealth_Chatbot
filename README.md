@@ -133,7 +133,6 @@ MenstrualHealth_Chatbot-main/
 
 ## 🔒 Privacy & Safety
 
-- **No Data Storage**: User queries are not stored or logged
 - **Domain-Specific**: Only responds to menstrual health related questions
 - **Medical Disclaimer**: Information provided is educational not medical advice
 
