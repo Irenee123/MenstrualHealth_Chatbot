@@ -133,12 +133,11 @@ MenstrualHealth_Chatbot-main/
 
 ## 🔒 Privacy & Safety
 
-- **Local Processing**: All responses generated locally
 - **No Data Storage**: User queries are not stored or logged
 - **Domain-Specific**: Only responds to menstrual health related questions
-- **Medical Disclaimer**: Information provided is educational, not medical advice
+- **Medical Disclaimer**: Information provided is educational not medical advice
 
 ## 🤝 Contributing
 
-This project demonstrates fine-tuning transformer models for domain-specific chatbots. For educational purposes only.
+This project demonstrates fine-tuning transformer models for domain-specific chatbots. For educational purposes.
 
